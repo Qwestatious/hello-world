@@ -6,7 +6,9 @@ Example for our first website
 # **Technologies Used**
 
 HTML
+
 VS Code
+
 Git Bash
 
 # **Description**
