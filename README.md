@@ -3,7 +3,7 @@ By Joshua Bonifacio
 
 Example for our first website
 
-# **Technologies Used**
+## **Technologies Used**
 
 HTML
 
@@ -11,10 +11,10 @@ VS Code
 
 Git Bash
 
-# **Description**
+## **Description**
 
 Example of first website _Git Logs_ with a basic format.
 
-# **Contact Information**
+## **Contact Information**
 
 Joshua Bonifacio joshuabonifaciotree@gmail.com
